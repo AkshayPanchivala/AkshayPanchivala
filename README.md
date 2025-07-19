@@ -1,4 +1,4 @@
-# Akshay Panchivala – Portfolio
+# Akshay Panchivala
 
 🚀 **Software Developer | Full-Stack Engineer**
 
