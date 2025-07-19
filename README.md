@@ -1,8 +1,7 @@
 <h1 align="center">Hi, I'm Akshay Panchivala 👋</h1>
 
 <p align="center">
-  <b>🚀 Software Developer | Full-Stack Engineer | Open Source Enthusiast</b><br/>
-  Passionate about building scalable, user-focused web applications.
+🚀 <b>Software Developer | Full-Stack Engineer</b>
 </p>
 
 <p align="center">
@@ -19,109 +18,93 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-🔹 Full-stack developer with **2+ years of hands-on experience** in web development  
-🔹 Skilled in crafting modern, modular apps using **React.js**, **Node.js**, **TypeScript**  
-🔹 Experienced with **secure APIs**, **microservices**, and **CI/CD workflows**  
-🔹 Strong in **data structures, algorithms**, and Agile team collaboration  
-🔹 Love learning, problem-solving, and contributing to open-source
+Detail-oriented and proactive **Software Developer** with **2+ years** of full-stack experience in developing scalable web applications using **React.js**, **Node.js**, and **TypeScript**. Skilled in secure API development, backend optimization, and Agile methodologies.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:**  
-`JavaScript` · `TypeScript` · `Python` · `C`
-
-**Frameworks & Libraries:**  
-`React.js` · `Next.js` · `Node.js` · `Express.js` · `Redux Toolkit` · `Shadcn UI` · `Material UI` · `Bootstrap`
-
-**Databases & Backend:**  
-`MongoDB` · `MySQL` · `REST APIs` · `WebSocket APIs` · `JWT Auth` · `Stripe` · `Razorpay`
-
-**Dev Tools & Practices:**  
-`Git` · `Postman` · `Jira` · `CI/CD Pipelines` · `AWS Basics` · `Nx Workspaces` · `Cloudinary`
+| **Category**       | **Technologies & Tools**                                                                                           |
+|--------------------|---------------------------------------------------------------------------------------------------------------------|
+| **Languages**      | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white) |
+| **Frontend**       | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white) ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white) ![Shadcn UI](https://img.shields.io/badge/-Shadcn_UI-000000?logo=vercel&logoColor=white) ![Material UI](https://img.shields.io/badge/-MUI-007FFF?logo=mui&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white) |
+| **Backend**        | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white) ![JWT](https://img.shields.io/badge/-JWT-000000?logo=jsonwebtokens&logoColor=white) ![REST API](https://img.shields.io/badge/-REST_API-FF6C37?logo=fastapi&logoColor=white) ![WebSocket](https://img.shields.io/badge/-WebSocket-1C9CEA?logo=socketdotio&logoColor=white) |
+| **Databases**      | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) |
+| **Payments & APIs**| ![Stripe](https://img.shields.io/badge/-Stripe-635BFF?logo=stripe&logoColor=white) ![Razorpay](https://img.shields.io/badge/-Razorpay-02042B?logo=razorpay&logoColor=white) |
+| **Tools & DevOps** | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS_Basics-FF9900?logo=amazonaws&logoColor=white) ![CI/CD](https://img.shields.io/badge/-CI/CD-4FA1F3?logo=githubactions&logoColor=white) ![Nx](https://img.shields.io/badge/-Nx-143055?logo=nx&logoColor=white) ![Cloudinary](https://img.shields.io/badge/-Cloudinary-3448C5?logo=cloudinary&logoColor=white) |
 
 ---
 
 ## 💼 Experience
 
-### 🏢 La Net Team Software Solutions – Surat, Gujarat
+### 🚀 Software Developer – *La Net Team Software Solutions*
 
-**Software Developer**  
-*Jul 2023 – Present*
+**July 2023 – Present**
 
-- Built scalable web apps using **React** & **Node.js** in **Nx Workspace**
-- Developed secure APIs with **JWT-based auth**
-- Optimized MongoDB queries for performance
-- Created **private NPM packages** to streamline dev workflow
-- Integrated **Jest testing & CI/CD** pipelines
+- Modular React.js apps & Node.js microservices via Nx Workspaces.
+- JWT-auth APIs & MongoDB optimization.
+- Automated pipelines with CI/CD & Jest.
+- Published internal-use private NPM packages.
 
 **Software Developer Trainee**  
-*Jan 2023 – Jul 2023*
+*Jan 2023 – July 2023*
 
-- Integrated **Stripe & Razorpay** payment systems  
-- Improved API response times with **query optimization**  
-- Contributed to frontend features with **React & Redux**
+- Stripe/Razorpay payment integrations.
+- API optimization & dynamic filters.
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-### 🔍 [File Talk AI – Document Assistant](https://filetalkai.vercel.app/)
+### 📄 [File Talk AI](https://filetalkai.vercel.app/)
 
-AI-powered tool for document uploads, summarization, and chat-based Q&A.
+> React + Django + GROQ
 
-> Tech: React · Django · TailwindCSS · GROQ · Cloudinary  
-> 💡 Features: Upload PDF → AI Summary → Ask Questions  
-> 🌐 [Live Demo](https://filetalkai.vercel.app/)
+- AI-powered PDF summarization & Q&A.
+- Cloudinary storage, responsive UI.
+- Live: [filetalkai.vercel.app](https://filetalkai.vercel.app/)
 
 ---
 
 ### 🩸 [Blood Inventory Management System](https://blood-bank-management-rosy.vercel.app/)
 
-A full-stack system to manage blood donors and inventory in hospitals.
-
-> Tech: React · Node.js · Express · MongoDB  
-> Features: CRUD, real-time tracking, hospital dashboards  
-> 🌐 [Live Demo](https://blood-bank-management-rosy.vercel.app/)
+- Real-time inventory & donor management.
+- Analytics dashboard for hospitals.
+- Live: [blood-bank-management-rosy.vercel.app](https://blood-bank-management-rosy.vercel.app/)
 
 ---
 
-### 🎟️ Movie Ticket Booking System
+### 🎬 Movie Ticket Booking System
 
-> Seat selection, booking system with secure payment integration  
-> Mobile-friendly UI with **Bootstrap**
-
----
-
-## 📦 Notable NPM Packages
-
-| Package | Description |
-|--------|-------------|
-| [`slack-notify-kit`](https://www.npmjs.com/package/slack-notify-kit) | Simplifies Slack webhook notifications for Node.js |
-| [`fast-ai-text-summary`](https://www.npmjs.com/package/fast-ai-text-summary) | Lightweight toolkit for AI-based extractive summaries |
-| [`error-cure`](https://www.npmjs.com/package/error-cure) | Robust error-handling utility for backend services |
+- Secure seat booking & payment.
+- Mobile-first responsive dashboard.
 
 ---
 
-## 🧩 Chrome Extension
+## 📦 NPM Packages
 
-### **Vocabify** – Instantly fetch word meanings on double-click  
-📦 [Available on Chrome Web Store](https://chromewebstore.google.com/detail/ieoaogocfjofgelllmghfpliomldpafg?utm_source=item-share-cb)
-
----
-
-## 📫 Get in Touch
-
-📧 Email: [akshaypanchivala@gmail.com](mailto:akshaypanchivala@gmail.com)  
-📍 Location: Ahmedabad, Gujarat, India  
-🌐 Portfolio: [akshaypanchivala.vercel.app](https://akshaypanchivala.vercel.app/)
+| Package                                                                 | Description                                       |
+|--------------------------------------------------------------------------|---------------------------------------------------|
+| [`slack-notify-kit`](https://www.npmjs.com/package/slack-notify-kit)     | Simple Slack webhook notifications for Node.js    |
+| [`fast-ai-text-summary`](https://www.npmjs.com/package/fast-ai-text-summary) | AI-driven text summarization toolkit             |
+| [`error-cure`](https://www.npmjs.com/package/error-cure)                 | Robust error handling utilities                   |
 
 ---
 
-<p align="center">
-  <i>“Code is like humor. When you have to explain it, it’s bad.”</i><br/>
-  <b>– Cory House</b>
-</p>
+## 🛠️ Chrome Extension
+
+### [**Vocabify**](https://chromewebstore.google.com/detail/ieoaogocfjofgelllmghfpliomldpafg?utm_source=item-share-cb)
+
+Fetch word meanings on double-click!  
+➡️ [Available on Chrome Web Store](https://chromewebstore.google.com/detail/ieoaogocfjofgelllmghfpliomldpafg?utm_source=item-share-cb)
+
+---
+
+## 📬 Contact Me
+
+- 📧 [akshaypanchivala@gmail.com](mailto:akshaypanchivala@gmail.com)
+- 📍 Ahmedabad, Gujarat, India
+
+
