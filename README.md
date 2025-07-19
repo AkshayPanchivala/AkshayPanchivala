@@ -1,93 +1,127 @@
-# Akshay Panchivala
+<h1 align="center">Hi, I'm Akshay Panchivala 👋</h1>
 
-🚀 **Software Developer | Full-Stack Engineer**
+<p align="center">
+  <b>🚀 Software Developer | Full-Stack Engineer | Open Source Enthusiast</b><br/>
+  Passionate about building scalable, user-focused web applications.
+</p>
 
-
-[![GitHub](https://img.shields.io/badge/GitHub-AkshayPanchivala-181717?logo=github)](https://github.com/AkshayPanchivala)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-akshay--kumar--panchivala-0A66C2?logo=linkedin)](https://linkedin.com/in/akshay-kumar-panchivala-680858194)
-[![Portfolio](https://img.shields.io/badge/Portfolio-akshaypanchivala.vercel.app-0A66C2?logo=vercel)](https://akshaypanchivala.vercel.app/)
-
----
-
-## 👋 About Me
-
-Detail-oriented and proactive Software Developer with **2+ years** of experience in full-stack web development. Skilled in building scalable web applications using **React.js**, **Node.js**, and **TypeScript**, along with secure API development and backend optimization. Strong foundation in **data structures**, **algorithms**, and **Agile methodologies**.
-
----
-
-## 🛠️ Skills
-
-* **Languages:** JavaScript, TypeScript, Python, C  
-* **Frameworks & Libraries:** React.js, Next.js, Node.js, Express.js, Redux Toolkit, Shadcn UI, Material UI, Bootstrap  
-* **Databases:** MongoDB, MySQL  
-* **Tools & Platforms:** Git, Postman, Jira, CI/CD Pipelines, AWS Basics  
-* **Core Competencies:** RESTful APIs, WebSocket APIs, Authentication (JWT), Payment Gateway Integration (Stripe, Razorpay), Nx Workspaces, Cloudinary, Modular Architecture  
+<p align="center">
+  <a href="https://github.com/AkshayPanchivala">
+    <img src="https://img.shields.io/badge/GitHub-AkshayPanchivala-181717?logo=github" />
+  </a>
+  <a href="https://linkedin.com/in/akshay-kumar-panchivala-680858194">
+    <img src="https://img.shields.io/badge/LinkedIn-akshay--kumar--panchivala-0A66C2?logo=linkedin" />
+  </a>
+  <a href="https://akshaypanchivala.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-akshaypanchivala.vercel.app-000000?logo=vercel" />
+  </a>
+</p>
 
 ---
 
-## 📈 Experience
+## 🧑‍💻 About Me
 
-### 💼 La Net Team Software Solutions – Surat, Gujarat
-
-**Software Developer** (July 2023 – Present)
-
-* Built modular React.js apps and Node.js microservices using Nx Workspace.
-* Implemented JWT-based authentication and secure APIs.
-* Optimized MongoDB queries for high-traffic systems.
-* Automated testing pipelines using Jest and CI/CD.
-* Developed and published private NPM packages for internal microservice utilities.
-
-**Software Developer Trainee** (Jan 2023 – July 2023)
-
-* Integrated Stripe/Razorpay payment gateways.
-* Enhanced API performance through query optimization and dynamic filtering.
-
+🔹 Full-stack developer with **2+ years of hands-on experience** in web development  
+🔹 Skilled in crafting modern, modular apps using **React.js**, **Node.js**, **TypeScript**  
+🔹 Experienced with **secure APIs**, **microservices**, and **CI/CD workflows**  
+🔹 Strong in **data structures, algorithms**, and Agile team collaboration  
+🔹 Love learning, problem-solving, and contributing to open-source
 
 ---
+
+## 🛠️ Tech Stack
+
+**Languages:**  
+`JavaScript` · `TypeScript` · `Python` · `C`
+
+**Frameworks & Libraries:**  
+`React.js` · `Next.js` · `Node.js` · `Express.js` · `Redux Toolkit` · `Shadcn UI` · `Material UI` · `Bootstrap`
+
+**Databases & Backend:**  
+`MongoDB` · `MySQL` · `REST APIs` · `WebSocket APIs` · `JWT Auth` · `Stripe` · `Razorpay`
+
+**Dev Tools & Practices:**  
+`Git` · `Postman` · `Jira` · `CI/CD Pipelines` · `AWS Basics` · `Nx Workspaces` · `Cloudinary`
+
+---
+
+## 💼 Experience
+
+### 🏢 La Net Team Software Solutions – Surat, Gujarat
+
+**Software Developer**  
+*Jul 2023 – Present*
+
+- Built scalable web apps using **React** & **Node.js** in **Nx Workspace**
+- Developed secure APIs with **JWT-based auth**
+- Optimized MongoDB queries for performance
+- Created **private NPM packages** to streamline dev workflow
+- Integrated **Jest testing & CI/CD** pipelines
+
+**Software Developer Trainee**  
+*Jan 2023 – Jul 2023*
+
+- Integrated **Stripe & Razorpay** payment systems  
+- Improved API response times with **query optimization**  
+- Contributed to frontend features with **React & Redux**
+
+---
+
 ## 🚀 Featured Projects
 
-### 📄 [File Talk AI – Intelligent Document Assistant](https://filetalkai.vercel.app/)
+### 🔍 [File Talk AI – Document Assistant](https://filetalkai.vercel.app/)
 
-React + Django + GROQ
+AI-powered tool for document uploads, summarization, and chat-based Q&A.
 
-* PDF upload, AI-powered summarization, and contextual Q&A.
-* Cloudinary file management for scalable cloud storage.
-* Dark/light theme support with Shadcn UI and Tailwind CSS.
-* Live Project: [filetalkai.vercel.app](https://filetalkai.vercel.app/)
+> Tech: React · Django · TailwindCSS · GROQ · Cloudinary  
+> 💡 Features: Upload PDF → AI Summary → Ask Questions  
+> 🌐 [Live Demo](https://filetalkai.vercel.app/)
 
 ---
 
 ### 🩸 [Blood Inventory Management System](https://blood-bank-management-rosy.vercel.app/)
 
-* CRUD-enabled donor management with real-time inventory tracking.
-* Dashboard and reporting tools for hospitals.
-* Live Project: [blood-bank-management-rosy.vercel.app](https://blood-bank-management-rosy.vercel.app/)
+A full-stack system to manage blood donors and inventory in hospitals.
+
+> Tech: React · Node.js · Express · MongoDB  
+> Features: CRUD, real-time tracking, hospital dashboards  
+> 🌐 [Live Demo](https://blood-bank-management-rosy.vercel.app/)
 
 ---
 
-### 🎬 Movie Ticket Booking System
+### 🎟️ Movie Ticket Booking System
 
-* Seat selection, booking, secure payment integration.
-* Mobile-responsive UI using Bootstrap.
+> Seat selection, booking system with secure payment integration  
+> Mobile-friendly UI with **Bootstrap**
 
 ---
 
 ## 📦 Notable NPM Packages
 
-* [`slack-notify-kit`](https://www.npmjs.com/package/slack-notify-kit) – Simplifies Slack webhook notifications for Node.js apps.
-* [`fast-ai-text-summary`](https://www.npmjs.com/package/fast-ai-text-summary) – Lightweight extractive summarization toolkit for AI/chatbot systems.
-* [`error-cure`](https://www.npmjs.com/package/error-cure) – Advanced error handling utilities for robust applications.
+| Package | Description |
+|--------|-------------|
+| [`slack-notify-kit`](https://www.npmjs.com/package/slack-notify-kit) | Simplifies Slack webhook notifications for Node.js |
+| [`fast-ai-text-summary`](https://www.npmjs.com/package/fast-ai-text-summary) | Lightweight toolkit for AI-based extractive summaries |
+| [`error-cure`](https://www.npmjs.com/package/error-cure) | Robust error-handling utility for backend services |
 
 ---
 
-## 🛠️ Chrome Extension
+## 🧩 Chrome Extension
 
-**Vocabify** – Instantly fetch word meanings on double-click.  
-➡️ [Available on Chrome Web Store](https://chromewebstore.google.com/detail/ieoaogocfjofgelllmghfpliomldpafg?utm_source=item-share-cb)
+### **Vocabify** – Instantly fetch word meanings on double-click  
+📦 [Available on Chrome Web Store](https://chromewebstore.google.com/detail/ieoaogocfjofgelllmghfpliomldpafg?utm_source=item-share-cb)
 
 ---
 
-## 📬 Contact
+## 📫 Get in Touch
 
-* **Email:** [akshaypanchivala@gmail.com](mailto:akshaypanchivala@gmail.com)  
-* **Location:** Ahmedabad, Gujarat, India
+📧 Email: [akshaypanchivala@gmail.com](mailto:akshaypanchivala@gmail.com)  
+📍 Location: Ahmedabad, Gujarat, India  
+🌐 Portfolio: [akshaypanchivala.vercel.app](https://akshaypanchivala.vercel.app/)
+
+---
+
+<p align="center">
+  <i>“Code is like humor. When you have to explain it, it’s bad.”</i><br/>
+  <b>– Cory House</b>
+</p>
