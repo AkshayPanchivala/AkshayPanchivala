@@ -16,13 +16,13 @@
   </a>
 </p>
 
----
+
 
 ## 👨‍💻 About Me
 
 Detail-oriented and proactive **Software Developer** with **2+ years** of full-stack experience in developing scalable web applications using **React.js**, **Node.js**, and **TypeScript**. Skilled in secure API development, backend optimization, and Agile methodologies.
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -35,7 +35,7 @@ Detail-oriented and proactive **Software Developer** with **2+ years** of full-s
 | **Payments & APIs**| ![Stripe](https://img.shields.io/badge/-Stripe-635BFF?logo=stripe&logoColor=white) ![Razorpay](https://img.shields.io/badge/-Razorpay-02042B?logo=razorpay&logoColor=white) |
 | **Tools & DevOps** | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS_Basics-FF9900?logo=amazonaws&logoColor=white) ![CI/CD](https://img.shields.io/badge/-CI/CD-4FA1F3?logo=githubactions&logoColor=white) ![Nx](https://img.shields.io/badge/-Nx-143055?logo=nx&logoColor=white) ![Cloudinary](https://img.shields.io/badge/-Cloudinary-3448C5?logo=cloudinary&logoColor=white) |
 
----
+
 
 ## 💼 Experience
 
@@ -54,7 +54,7 @@ Detail-oriented and proactive **Software Developer** with **2+ years** of full-s
 - Stripe/Razorpay payment integrations.
 - API optimization & dynamic filters.
 
----
+
 
 ## 🚀 Projects
 
@@ -66,7 +66,7 @@ Detail-oriented and proactive **Software Developer** with **2+ years** of full-s
 - Cloudinary storage, responsive UI.
 - Live: [filetalkai.vercel.app](https://filetalkai.vercel.app/)
 
----
+
 
 ### 🩸 [Blood Inventory Management System](https://blood-bank-management-rosy.vercel.app/)
 
@@ -74,14 +74,13 @@ Detail-oriented and proactive **Software Developer** with **2+ years** of full-s
 - Analytics dashboard for hospitals.
 - Live: [blood-bank-management-rosy.vercel.app](https://blood-bank-management-rosy.vercel.app/)
 
----
+
 
 ### 🎬 Movie Ticket Booking System
 
 - Secure seat booking & payment.
 - Mobile-first responsive dashboard.
 
----
 
 ## 📦 NPM Packages
 
@@ -91,7 +90,7 @@ Detail-oriented and proactive **Software Developer** with **2+ years** of full-s
 | [`fast-ai-text-summary`](https://www.npmjs.com/package/fast-ai-text-summary) | AI-driven text summarization toolkit             |
 | [`error-cure`](https://www.npmjs.com/package/error-cure)                 | Robust error handling utilities                   |
 
----
+
 
 ## 🛠️ Chrome Extension
 
@@ -100,7 +99,7 @@ Detail-oriented and proactive **Software Developer** with **2+ years** of full-s
 Fetch word meanings on double-click!  
 ➡️ [Available on Chrome Web Store](https://chromewebstore.google.com/detail/ieoaogocfjofgelllmghfpliomldpafg?utm_source=item-share-cb)
 
----
+
 
 ## 📬 Contact Me
 
