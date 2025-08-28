@@ -160,13 +160,6 @@ These are **authored by me** and available for the community to use 🚀
 
 ## 📬 Contact
 - 📧 <a href="mailto:akshaypanchivala@gmail.com">akshaypanchivala@gmail.com</a>  
-- 📍 Ahmedabad, Gujarat, India  
-- 📄 **Resume**: add `Akshay_Panchivala_Resume.pdf` to your repo root and link it like:  
-  <a href="./Akshay_Panchivala_Resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-informational?logo=adobeacrobatreader&logoColor=white" /></a>
+- 📍 Ahmedabad, Gujarat, India
 
-<!--
-Housekeeping / How to keep this pro:
-1) If a badge doesn’t render, open it directly in the browser—some CDNs rate-limit.
-2) Replace REPO_NAME placeholders above to show pinned cards.
-3) Keep project bullets focused on outcomes (perf wins, metrics, user value).
--->
+
