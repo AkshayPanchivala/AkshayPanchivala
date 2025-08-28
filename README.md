@@ -144,10 +144,12 @@ These are **authored by me** and available for the community to use 🚀
   <img src="https://github-readme-stats.vercel.app/api?username=AkshayPanchivala&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
 </p>
 
-<p align="center">
+
   <!-- Trophies (render reliably) -->
-  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AkshayPanchivala&theme=onedark&column=6)
+ <p align="center">
+  <img src="https://trophygh.kolioaris.xyz/?username=AkshayPanchivala&theme=onedark&column=6&margin-w=8&margin-h=8" alt="GitHub Profile Trophies" />
 </p>
+
 
 <!-- Optional: Top languages (card uses public repo code; not a skill metric) -->
 <p align="center">
