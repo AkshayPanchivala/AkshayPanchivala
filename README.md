@@ -1,109 +1,170 @@
 <h1 align="center">Hi, I'm Akshay Panchivala 👋</h1>
 
 <p align="center">
-🚀 <b>Software Developer | Full-Stack Engineer</b>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=600&center=true&vCenter=true&width=700&lines=Software+Developer+%7C+Full-Stack+Engineer;React+%7C+Node.js+%7C+TypeScript;Clean+Code+%7C+DX+%7C+Open+Source" alt="Typing Intro" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/AkshayPanchivala">
-    <img src="https://img.shields.io/badge/GitHub-AkshayPanchivala-181717?logo=github" />
+  <a href="https://github.com/AkshayPanchivala"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/akshay-kumar-panchivala-680858194"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
+  <a href="https://akshaypanchivala.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white" /></a>
+  <a href="mailto:akshaypanchivala@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AkshayPanchivala&label=Profile%20Views&color=0e75b6&style=flat" />
+  <a href="https://github.com/AkshayPanchivala?tab=followers"><img src="https://img.shields.io/github/followers/AkshayPanchivala?label=Followers&style=flat" /></a>
+  <a href="https://github.com/AkshayPanchivala"><img src="https://img.shields.io/github/stars/AkshayPanchivala?affiliations=OWNER%2CCOLLABORATOR" /></a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+I’m a **Software Developer** with **2+ years** of experience building production web apps.  
+- Focus: **React, Next.js, Node.js, TypeScript, MongoDB, MySQL, PostgreSQL**  
+- Practices: **REST APIs, JWT/role-based auth, testing, CI/CD, performance-first UIs**  
+- I care about **developer experience (DX)**, clean abstractions, and helpful docs.
+
+---
+
+## 🛠️ Tech Stack — Visual Showcase
+
+### 🔺 Pyramid Core (what I use most)
+<p align="center">
+  <!-- Top -->
+  <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" height="56" alt="React"/></a>
+</p>
+<p align="center">
+  <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="Node.js"/></a>
+  <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="Next.js"/></a>
+</p>
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" height="45" alt="JavaScript"/></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" height="45" alt="TypeScript"/></a>
+  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" height="45" alt="Python"/></a>
+</p>
+<p align="center">
+  <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="MongoDB"/></a>
+  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" height="45" alt="MySQL"/></a>
+  <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgresql" height="45" alt="PostgreSQL"/></a>
+  <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" height="45" alt="Express"/></a>
+</p>
+<p align="center">
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" height="40" alt="Git"/></a>
+  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/></a>
+  <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" height="40" alt="Postman"/></a>
+  <a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS"/></a>
+  <a href="https://redux-toolkit.js.org/"><img src="https://skillicons.dev/icons?i=redux" height="40" alt="Redux"/></a>
+</p>
+
+### 🔵 Skill Rings (tools & APIs I reach for)
+<p align="center">
+  <a href="https://www.atlassian.com/software/jira"><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" height="30" /></a>
+  <a href="https://nx.dev/"><img src="https://img.shields.io/badge/Nx-143055?style=for-the-badge&logo=nx&logoColor=white" height="30" /></a>
+  <a href="https://cloudinary.com/"><img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" height="30" /></a>
+  <a href="https://stripe.com/"><img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" height="30" /></a>
+  <a href="https://razorpay.com/"><img src="https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=white" height="30" /></a>
+</p>
+
+### 🧭 Skill Matrix (quick scan)
+| Area | Skills |
+|------|--------|
+| Frontend | React, Next.js, Redux Toolkit, MUI, Bootstrap |
+| Backend | Node.js, Express, REST APIs, WebSockets, JWT Auth |
+| Data | MongoDB, MySQL, PostgreSQL |
+| Platform | AWS (basics), GitHub Actions (CI/CD) |
+| Tooling | Git, Postman, Nx, Cloudinary, Stripe, Razorpay, Jira |
+
+
+
+---
+
+## 📦 Open-Source NPM Packages  
+
+I actively publish and maintain **production-ready npm packages**.  
+These are **authored by me** and available for the community to use 🚀  
+
+<p align="center">
+  <a href="https://www.npmjs.com/package/slack-notify-kit">
+    <img src="https://img.shields.io/badge/slack--notify--kit-%23000000?style=for-the-badge&logo=npm&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/akshay-kumar-panchivala-680858194">
-    <img src="https://img.shields.io/badge/LinkedIn-akshay--kumar--panchivala-0A66C2?logo=linkedin" />
+  <a href="https://www.npmjs.com/package/fast-ai-text-summary">
+    <img src="https://img.shields.io/badge/fast--ai--text--summary-%23CC3534?style=for-the-badge&logo=npm&logoColor=white" />
   </a>
-  <a href="https://akshaypanchivala.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-akshaypanchivala.vercel.app-000000?logo=vercel" />
+  <a href="https://www.npmjs.com/package/error-cure">
+    <img src="https://img.shields.io/badge/error--cure-%231572B6?style=for-the-badge&logo=npm&logoColor=white" />
+  </a>
+</p>
+
+### 📊 Live Stats
+<p align="center">
+  <a href="https://www.npmjs.com/package/slack-notify-kit">
+    <img src="https://img.shields.io/npm/v/slack-notify-kit?label=slack-notify-kit&color=blue&logo=npm" />
+    <img src="https://img.shields.io/npm/dt/slack-notify-kit?color=blue&label=downloads" />
+  </a>
+  <br/>
+  <a href="https://www.npmjs.com/package/fast-ai-text-summary">
+    <img src="https://img.shields.io/npm/v/fast-ai-text-summary?label=fast-ai-text-summary&color=red&logo=npm" />
+    <img src="https://img.shields.io/npm/dt/fast-ai-text-summary?color=red&label=downloads" />
+  </a>
+  <br/>
+  <a href="https://www.npmjs.com/package/error-cure">
+    <img src="https://img.shields.io/npm/v/error-cure?label=error-cure&color=green&logo=npm" />
+    <img src="https://img.shields.io/npm/dt/error-cure?color=green&label=downloads" />
   </a>
 </p>
 
 
+---
 
-## 👨‍💻 About Me
+## 🚀 Projects (Live)
+- **[File Talk AI](https://filetalkai.vercel.app/)** → AI-powered PDF summarization & Q&A *(React + Django + GROQ)*
+- **[Blood Inventory Management](https://blood-bank-management-rosy.vercel.app/)** → Donor & inventory dashboards for hospitals
+- **Movie Ticket Booking System** → Secure seat booking & payments
+- **[Vocabify (Chrome Extension)](https://chromewebstore.google.com/detail/ieoaogocfjofgelllmghfpliomldpafg?utm_source=item-share-cb)** → Get word meanings on double-click
 
-Detail-oriented and proactive **Software Developer** with **2+ years** of full-stack experience in developing scalable web applications using **React.js**, **Node.js**, and **TypeScript**. Skilled in secure API development, backend optimization, and Agile methodologies.
+<!-- Optional pinned repo cards (replace REPO_NAMEs and uncomment):
+<p align="center">
+  <a href="https://github.com/AkshayPanchivala/REPO_NAME_1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AkshayPanchivala&repo=REPO_NAME_1&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/AkshayPanchivala/REPO_NAME_2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AkshayPanchivala&repo=REPO_NAME_2&theme=tokyonight&hide_border=true" /></a>
+</p>
+-->
 
+---
 
+## 🏆 Contributions & Trust Signals
+<p align="center">
+  <!-- Activity heatmap -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkshayPanchivala&theme=react-dark&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
+</p>
 
-## 🛠️ Tech Stack
+<p align="center">
+  <!-- Streak + Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkshayPanchivala&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AkshayPanchivala&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+</p>
 
-| **Category**       | **Technologies & Tools**                                                                                           |
-|--------------------|---------------------------------------------------------------------------------------------------------------------|
-| **Languages**      | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white) |
-| **Frontend**       | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white) ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white) ![Shadcn UI](https://img.shields.io/badge/-Shadcn_UI-000000?logo=vercel&logoColor=white) ![Material UI](https://img.shields.io/badge/-MUI-007FFF?logo=mui&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white) |
-| **Backend**        | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white) ![JWT](https://img.shields.io/badge/-JWT-000000?logo=jsonwebtokens&logoColor=white) ![REST API](https://img.shields.io/badge/-REST_API-FF6C37?logo=fastapi&logoColor=white) ![WebSocket](https://img.shields.io/badge/-WebSocket-1C9CEA?logo=socketdotio&logoColor=white) |
-| **Databases**      | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) |
-| **Payments & APIs**| ![Stripe](https://img.shields.io/badge/-Stripe-635BFF?logo=stripe&logoColor=white) ![Razorpay](https://img.shields.io/badge/-Razorpay-02042B?logo=razorpay&logoColor=white) |
-| **Tools & DevOps** | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS_Basics-FF9900?logo=amazonaws&logoColor=white) ![CI/CD](https://img.shields.io/badge/-CI/CD-4FA1F3?logo=githubactions&logoColor=white) ![Nx](https://img.shields.io/badge/-Nx-143055?logo=nx&logoColor=white) ![Cloudinary](https://img.shields.io/badge/-Cloudinary-3448C5?logo=cloudinary&logoColor=white) |
+<p align="center">
+  <!-- Trophies (render reliably) -->
+  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AkshayPanchivala&theme=onedark&column=6)
+</p>
 
+<!-- Optional: Top languages (card uses public repo code; not a skill metric) -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshayPanchivala&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+</p>
 
+---
 
-## 💼 Experience
+## 📬 Contact
+- 📧 <a href="mailto:akshaypanchivala@gmail.com">akshaypanchivala@gmail.com</a>  
+- 📍 Ahmedabad, Gujarat, India  
+- 📄 **Resume**: add `Akshay_Panchivala_Resume.pdf` to your repo root and link it like:  
+  <a href="./Akshay_Panchivala_Resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-informational?logo=adobeacrobatreader&logoColor=white" /></a>
 
-### 🚀 Software Developer – *La Net Team Software Solutions*
-
-**July 2023 – Present**
-
-- Modular React.js apps & Node.js microservices via Nx Workspaces.
-- JWT-auth APIs & MongoDB optimization.
-- Automated pipelines with CI/CD & Jest.
-- Published internal-use private NPM packages.
-
-**Software Developer Trainee**  
-*Jan 2023 – July 2023*
-
-- Stripe/Razorpay payment integrations.
-- API optimization & dynamic filters.
-
-
-
-## 🚀 Projects
-
-### 📄 [File Talk AI](https://filetalkai.vercel.app/)
-
-> React + Django + GROQ
-
-- AI-powered PDF summarization & Q&A.
-- Cloudinary storage, responsive UI.
-- Live: [filetalkai.vercel.app](https://filetalkai.vercel.app/)
-
-
-
-### 🩸 [Blood Inventory Management System](https://blood-bank-management-rosy.vercel.app/)
-
-- Real-time inventory & donor management.
-- Analytics dashboard for hospitals.
-- Live: [blood-bank-management-rosy.vercel.app](https://blood-bank-management-rosy.vercel.app/)
-
-
-
-### 🎬 Movie Ticket Booking System
-
-- Secure seat booking & payment.
-- Mobile-first responsive dashboard.
-
-
-## 📦 NPM Packages
-
-| Package                                                                 | Description                                       |
-|--------------------------------------------------------------------------|---------------------------------------------------|
-| [`slack-notify-kit`](https://www.npmjs.com/package/slack-notify-kit)     | Simple Slack webhook notifications for Node.js    |
-| [`fast-ai-text-summary`](https://www.npmjs.com/package/fast-ai-text-summary) | AI-driven text summarization toolkit             |
-| [`error-cure`](https://www.npmjs.com/package/error-cure)                 | Robust error handling utilities                   |
-
-
-
-## 🛠️ Chrome Extension
-
-### [**Vocabify**](https://chromewebstore.google.com/detail/ieoaogocfjofgelllmghfpliomldpafg?utm_source=item-share-cb)
-
-Fetch word meanings on double-click!  
-➡️ [Available on Chrome Web Store](https://chromewebstore.google.com/detail/ieoaogocfjofgelllmghfpliomldpafg?utm_source=item-share-cb)
-
-
-
-## 📬 Contact Me
-
-- 📧 [akshaypanchivala@gmail.com](mailto:akshaypanchivala@gmail.com)
-- 📍 Ahmedabad, Gujarat, India
-
-
+<!--
+Housekeeping / How to keep this pro:
+1) If a badge doesn’t render, open it directly in the browser—some CDNs rate-limit.
+2) Replace REPO_NAME placeholders above to show pinned cards.
+3) Keep project bullets focused on outcomes (perf wins, metrics, user value).
+-->
