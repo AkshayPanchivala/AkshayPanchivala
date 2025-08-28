@@ -20,7 +20,7 @@
 ---
 
 ## 👨‍💻 About Me
-I’m a **Software Developer** with **2+ years** of experience building production web apps.  
+I’m a **Software Developer** with **3+ years** of experience building production web apps.  
 - Focus: **React, Next.js, Node.js, TypeScript, MongoDB, MySQL, PostgreSQL**  
 - Practices: **REST APIs, JWT/role-based auth, testing, CI/CD, performance-first UIs**  
 - I care about **developer experience (DX)**, clean abstractions, and helpful docs.
