@@ -153,7 +153,7 @@
 ### **Production Applications (Live)**
 - 🏥 **[Blood Inventory Management](https://blood-bank-management-rosy.vercel.app/)** → Full-stack inventory system with donor tracking *(React + Node.js + MongoDB)*
 - 🤖 **[File Talk AI](https://filetalkai.vercel.app/)** → AI-powered document analysis platform *(React + Django + GROQ API)*
-- 🎬 **Movie Booking Platform** → Complete booking system with payment integration *(React + Express + MySQL)*
+- 🎬  **[Movie Booking Platform](https://movie-ticket-booking-app-lemon.vercel.app/)** → Complete booking system with payment integration *(React + Express + MongoDB)*
 - 🔤 **[Vocabify Chrome Extension](https://chromewebstore.google.com/detail/ieoaogocfjofgelllmghfpliomldpafg)** → Dictionary extension with active users *(JavaScript + Chrome APIs)*
 
 
